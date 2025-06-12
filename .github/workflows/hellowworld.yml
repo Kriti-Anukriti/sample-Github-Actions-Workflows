@@ -4,7 +4,7 @@ name: "hellow world workflow"
 on: 
   push:
     branches:
-      - master
+      - main
       - production
     
 jobs:
